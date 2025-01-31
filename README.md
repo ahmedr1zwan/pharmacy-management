@@ -1,4 +1,7 @@
-Welcome to Group 45's CISC 327 Project. Below there are a few instruction on how to run the project.
+We made this Pharmacy Management Web Application for CISC327. I wanted to continue work on the project and add more functionality to further polish the site so I forked it from the original repository.
+I would like to credit my other group mates: James Song and Adwait Srivastava who worked extensively on the project with me.
+
+We were able to achieve A+ grade in the course :)
 
 # Recommended
 To see finish product, navigate to [This Link](https://pharma-cisc327-group-45.netlify.app/)
